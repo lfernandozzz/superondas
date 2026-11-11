@@ -1,0 +1,14 @@
+{
+  "routes": [
+    { "path": "/", "title": "Home | SuperOndas Telecom" },
+    { "path": "/planos", "title": "Planos | SuperOndas Telecom" },
+    { "path": "/cobertura", "title": "Cobertura | SuperOndas Telecom" },
+    { "path": "/suporte", "title": "Suporte | SuperOndas Telecom" },
+    { "path": "/empresa", "title": "Empresa | SuperOndas Telecom" },
+    { "path": "/blog", "title": "Blog | SuperOndas Telecom" },
+    { "path": "/contato", "title": "Contato | SuperOndas Telecom" },
+    { "path": "/privacidade", "title": "Política de Privacidade | SuperOndas Telecom" },
+    { "path": "/termos", "title": "Termos de Uso | SuperOndas Telecom" },
+    { "path": "/internet-em/:citySlug", "title": "Internet em cidade | SuperOndas Telecom" }
+  ]
+}
